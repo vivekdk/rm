@@ -129,3 +129,4 @@ Notes/Improvements:
 - Unit test not written
 - API request/response documentation not done
 - For MongoDB, Morphia POJO Wrapper is used. Could have created DAOs instead of putting control logic in controller
+- No UI is written for the slot booking application
