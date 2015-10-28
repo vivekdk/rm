@@ -4,6 +4,8 @@ rm slot booking application
 URL : POST http://rocky-wildwood-8040.herokuapp.com/slotavailability
 
 Sample request
+
+
 {
     "meta": {
         "vans": {
